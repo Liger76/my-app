@@ -1,0 +1,25 @@
+td {
+    display: flex;
+    width: 1735px;
+    align-items: center;
+}
+.header__img {
+    width: 60px;
+    height: 60px;
+}
+.prop{
+    margin-left: 307px;
+}
+.btn{
+    background: #28a426;
+    border: 1px #28a426 solid;
+    color: white;
+    margin-left: 307px;
+    padding: 8px;
+}
+.btn2{
+    background:#7A43EE;
+    border: 1px #7A43EE solid;
+    color: white;
+    padding: 8px;
+}
